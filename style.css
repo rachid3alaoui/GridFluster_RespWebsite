@@ -144,7 +144,7 @@ img {
 
 .infos {
   background: var(--primary);
-  box-shadow: var(--shadow);
+ box-shadow: var(--shodow);
   display: grid;
   grid-gap: 30px;
   grid-template-columns: repeat(2, 1fr);
